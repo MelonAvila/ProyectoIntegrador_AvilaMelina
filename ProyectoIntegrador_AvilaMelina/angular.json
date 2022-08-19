@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "ProyectoIntegrador_AvilaMelina/ProyectoIntegrador_AvilaMelina/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "ProyectoIntegrador_AvilaMelina/ProyectoIntegrador_AvilaMelina/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -97,5 +100,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "b1850ad6-57de-4291-bf63-caa0e6e74f5b"
   }
 }
